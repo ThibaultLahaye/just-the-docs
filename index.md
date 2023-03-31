@@ -53,7 +53,14 @@ Just the Docs is &copy; 2017-{{ "now" | date: "%Y" }} by [Patrick Marsceill](htt
 
 ### License
 
-Just the Docs is distributed by an [MIT license](https://github.com/just-the-docs/just-the-docs/tree/main/LICENSE.txt).
+Academics For Companies .vzw Proprietary License
+
+Copyright (c) Academics For Companies. All rights reserved.
+
+Permission is hereby granted to use, copy, and modify this software for internal use within Academics For Companies vzw only. Any distribution, reproduction, or use of this software outside of Academics For Companies vzw is strictly prohibited, except with explicit permission granted by Academics For Companies in writing.
+
+THIS SOFTWARE IS PROVIDED "AS IS" AND WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL ACME CORPORATION BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
 
 ### Contributing
 
